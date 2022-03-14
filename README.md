@@ -16,12 +16,12 @@
 ### 📱 Como rodar o App
 #### com o android studio instalado basta abrir o projeto
 <div align="center">
-	<img src="https://github.com/rafaelnunesmoura/Match-Simulator---Simulador-de-Partidas/blob/main/assets/rodar-app.png">
+	<img src="https://github.com/rafaelnunesmoura/Match-Simulator---Simulador-de-Partidas/blob/main/assets/rodar-app.png" width="650">
 </div>
 
 #### com o projeto já importado vamos verificar se o o device foi escolhido corretamente e  em seguida  clicar no botão run e o android studio que ira buildar o projeto 
 <div align="center">
-	<img src="https://github.com/rafaelnunesmoura/Match-Simulator---Simulador-de-Partidas/blob/main/assets/abrir-o-projeto.png">
+	<img src="https://github.com/rafaelnunesmoura/Match-Simulator---Simulador-de-Partidas/blob/main/assets/abrir-o-projeto.png" width="650" >
 </div>
 
 #### se tudo deu certo você estara vendo o resultado final do projeto Android.
