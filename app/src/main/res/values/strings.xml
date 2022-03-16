@@ -1,4 +1,13 @@
 <resources>
     <string name="app_name">cartao de visitas</string>
     <string name="business_cards">Cartão de Visita</string>
+    <string name="label_description_new_card">Novo cartão</string>
+    <string name="label_nome">Nome</string>
+    <string name="label_telefone">telefone</string>
+    <string name="label_email">email</string>
+    <string name="label_empresa">empresa</string>
+    <string name="label_cor">cor</string>
+    <string name="label_confirmar">confirmar</string>
+    <string name="adicionar_novo_cartao_de_visita">label_add</string>
+    <string name="botao_retornar">label_close</string>
 </resources>
